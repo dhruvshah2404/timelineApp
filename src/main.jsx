@@ -16,7 +16,6 @@ class Main extends Component {
         <Header />
         <InputForm />
       </React.Fragment>  
-
      );
   }
 }
